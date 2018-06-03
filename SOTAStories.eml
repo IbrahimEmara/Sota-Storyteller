@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-1.8">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="core-2.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/core-2.2.jar!/"/>
+	</lib>
+	<lib name="javase-2.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/javase-2.2.jar!/"/>
+	</lib>
+	<lib name="jna-4.1.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jna-4.1.0.jar!/"/>
+	</lib>
+	<lib name="opencv-310.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/opencv-310.jar!/"/>
+	</lib>
+	<lib name="SRClientHelper.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/SRClientHelper.jar!/"/>
+	</lib>
+	<lib name="api-common-1.2.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/api-common-1.2.0.jar!/"/>
+	</lib>
+	<lib name="auto-value-1.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/auto-value-1.2.jar!/"/>
+	</lib>
+	<lib name="commons-codec-1.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/commons-codec-1.3.jar!/"/>
+	</lib>
+	<lib name="commons-logging-1.1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/"/>
+	</lib>
+	<lib name="error_prone_annotations-2.0.19.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/error_prone_annotations-2.0.19.jar!/"/>
+	</lib>
+	<lib name="gax-1.15.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/gax-1.15.0.jar!/"/>
+	</lib>
+	<lib name="gax-grpc-1.15.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/gax-grpc-1.15.0.jar!/"/>
+	</lib>
+	<lib name="google-auth-library-credentials-0.9.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/google-auth-library-credentials-0.9.0.jar!/"/>
+	</lib>
+	<lib name="google-auth-library-oauth2-http-0.9.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/google-auth-library-oauth2-http-0.9.0.jar!/"/>
+	</lib>
+	<lib name="google-cloud-core-1.14.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/google-cloud-core-1.14.0.jar!/"/>
+	</lib>
+	<lib name="google-cloud-core-grpc-1.14.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/google-cloud-core-grpc-1.14.0.jar!/"/>
+	</lib>
+	<lib name="google-cloud-speech-0.32.0-alpha.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/google-cloud-speech-0.32.0-alpha.jar!/"/>
+	</lib>
+	<lib name="google-http-client-1.23.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/google-http-client-1.23.0.jar!/"/>
+	</lib>
+	<lib name="google-http-client-jackson2-1.19.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/google-http-client-jackson2-1.19.0.jar!/"/>
+	</lib>
+	<lib name="grpc-auth-1.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/grpc-auth-1.7.0.jar!/"/>
+	</lib>
+	<lib name="grpc-context-1.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/grpc-context-1.7.0.jar!/"/>
+	</lib>
+	<lib name="grpc-core-1.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/grpc-core-1.7.0.jar!/"/>
+	</lib>
+	<lib name="grpc-netty-1.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/grpc-netty-1.7.0.jar!/"/>
+	</lib>
+	<lib name="grpc-protobuf-1.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/grpc-protobuf-1.7.0.jar!/"/>
+	</lib>
+	<lib name="grpc-protobuf-lite-1.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/grpc-protobuf-lite-1.7.0.jar!/"/>
+	</lib>
+	<lib name="grpc-stub-1.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/grpc-stub-1.7.0.jar!/"/>
+	</lib>
+	<lib name="gson-2.8.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/gson-2.8.0.jar!/"/>
+	</lib>
+	<lib name="guava-20.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/guava-20.0.jar!/"/>
+	</lib>
+	<lib name="httpclient-4.0.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/httpclient-4.0.1.jar!/"/>
+	</lib>
+	<lib name="httpcore-4.0.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/httpcore-4.0.1.jar!/"/>
+	</lib>
+	<lib name="instrumentation-api-0.4.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/instrumentation-api-0.4.3.jar!/"/>
+	</lib>
+	<lib name="jackson-core-2.1.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jackson-core-2.1.3.jar!/"/>
+	</lib>
+	<lib name="joda-time-2.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/joda-time-2.9.2.jar!/"/>
+	</lib>
+	<lib name="json-20160810.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/json-20160810.jar!/"/>
+	</lib>
+	<lib name="jsr305-3.0.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jsr305-3.0.0.jar!/"/>
+	</lib>
+	<lib name="netty-buffer-4.1.16.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/netty-buffer-4.1.16.Final.jar!/"/>
+	</lib>
+	<lib name="netty-codec-4.1.16.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/netty-codec-4.1.16.Final.jar!/"/>
+	</lib>
+	<lib name="netty-codec-http-4.1.16.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/netty-codec-http-4.1.16.Final.jar!/"/>
+	</lib>
+	<lib name="netty-codec-http2-4.1.16.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/netty-codec-http2-4.1.16.Final.jar!/"/>
+	</lib>
+	<lib name="netty-codec-socks-4.1.16.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/netty-codec-socks-4.1.16.Final.jar!/"/>
+	</lib>
+	<lib name="netty-common-4.1.16.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/netty-common-4.1.16.Final.jar!/"/>
+	</lib>
+	<lib name="netty-handler-4.1.16.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/netty-handler-4.1.16.Final.jar!/"/>
+	</lib>
+	<lib name="netty-handler-proxy-4.1.16.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/netty-handler-proxy-4.1.16.Final.jar!/"/>
+	</lib>
+	<lib name="netty-resolver-4.1.16.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/netty-resolver-4.1.16.Final.jar!/"/>
+	</lib>
+	<lib name="netty-tcnative-boringssl-static-2.0.6.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.6.Final.jar!/"/>
+	</lib>
+	<lib name="netty-transport-4.1.16.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/netty-transport-4.1.16.Final.jar!/"/>
+	</lib>
+	<lib name="opencensus-api-0.6.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/opencensus-api-0.6.0.jar!/"/>
+	</lib>
+	<lib name="proto-google-cloud-speech-v1-0.1.26.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/proto-google-cloud-speech-v1-0.1.26.jar!/"/>
+	</lib>
+	<lib name="proto-google-cloud-speech-v1beta1-0.1.26.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/proto-google-cloud-speech-v1beta1-0.1.26.jar!/"/>
+	</lib>
+	<lib name="proto-google-common-protos-1.0.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/proto-google-common-protos-1.0.2.jar!/"/>
+	</lib>
+	<lib name="proto-google-iam-v1-0.1.26.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/proto-google-iam-v1-0.1.26.jar!/"/>
+	</lib>
+	<lib name="protobuf-java-3.4.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/protobuf-java-3.4.0.jar!/"/>
+	</lib>
+	<lib name="protobuf-java-util-3.4.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/protobuf-java-util-3.4.0.jar!/"/>
+	</lib>
+	<lib name="threetenbp-1.3.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/threetenbp-1.3.3.jar!/"/>
+	</lib>
+	<lib name="sotalib.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/sotalib.jar!/"/>
+	</lib>
+	<lib name="jetty-6.1.26.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jetty-6.1.26.jar!/"/>
+	</lib>
+	<lib name="jetty-alpn-agent-2.0.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jetty-alpn-agent-2.0.0.jar!/"/>
+	</lib>
+	<lib name="jetty-util-6.1.26.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jetty-util-6.1.26.jar!/"/>
+	</lib>
+	<lib name="freetts.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/freetts.jar!/"/>
+	</lib>
+</component>

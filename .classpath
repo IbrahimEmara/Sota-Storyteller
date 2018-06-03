@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/core-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/javase-2.2.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/opencv-310.jar"/>
+	<classpathentry kind="lib" path="lib/SRClientHelper.jar"/>
+	<classpathentry kind="lib" path="lib/api-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/auto-value-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/error_prone_annotations-2.0.19.jar"/>
+	<classpathentry kind="lib" path="lib/gax-1.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/gax-grpc-1.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-auth-library-credentials-0.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-auth-library-oauth2-http-0.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-cloud-core-1.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-cloud-core-grpc-1.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-cloud-speech-0.32.0-alpha.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-1.23.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-jackson2-1.19.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-auth-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-context-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-core-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-netty-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-protobuf-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-protobuf-lite-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-stub-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/instrumentation-api-0.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/json-20160810.jar"/>
+	<classpathentry kind="lib" path="lib/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/netty-buffer-4.1.16.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-codec-4.1.16.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-codec-http-4.1.16.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-codec-http2-4.1.16.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-codec-socks-4.1.16.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-common-4.1.16.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-handler-4.1.16.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-handler-proxy-4.1.16.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-resolver-4.1.16.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-tcnative-boringssl-static-2.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-transport-4.1.16.Final.jar"/>
+	<classpathentry kind="lib" path="lib/opencensus-api-0.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/proto-google-cloud-speech-v1-0.1.26.jar"/>
+	<classpathentry kind="lib" path="lib/proto-google-cloud-speech-v1beta1-0.1.26.jar"/>
+	<classpathentry kind="lib" path="lib/proto-google-common-protos-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/proto-google-iam-v1-0.1.26.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-util-3.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/threetenbp-1.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/sotalib.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-alpn-agent-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="lib/freetts.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
